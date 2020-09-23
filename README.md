@@ -31,6 +31,10 @@ It works with parameters:
 
 `` products `` - can be a single ID number of product or a comma-separated list of IDs of items to test for
 
+## How to install
+
+Clone this repository or download ZIP, rename the folder to `` woocommerce-simple-paywall-shortcode `` and copy the folder to `` wp-content/plugins ``
+
 ## Maintenance
 
 I am not working on this plugin actively and it was for single purpose only, but if you selfdom make any changes to it, feel free to send a pull request 🍋.
