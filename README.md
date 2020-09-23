@@ -1,0 +1,1 @@
+# woocommerce-simple-paywall-shortcode
